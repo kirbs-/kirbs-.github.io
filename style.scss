@@ -37,8 +37,8 @@ th.title {
 /* ------------ Sidebar Style -------------- */
 
 #picture{
-    width:150px;
-    height:150px;
+    width: auto;
+    height: 150px;
     border-radius:5%;
     background-size: cover;
     margin-bottom: 8px;
@@ -74,6 +74,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 {
     font-size:  1.1em;
     display: block;
+    text-align: center;
 }
 
 #social-icons ul {
@@ -96,7 +97,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 
 .content {
   flex: 1;
-  padding: 80px 30px;
+  padding: 0px 30px;
   transform: translate3d(0,0,0);
   transition: transform .3s;
 
@@ -106,6 +107,10 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
   line-height: 1.5em;
   color: #666;
   font-weight: 300;
+}
+
+.home .h1 {
+    margin-top: 0px;
 }
 
 .content hr {
@@ -120,7 +125,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
     font-weight: normal;
     color: #696969;
     margin-bottom: 10px;
-    font-size: 25px;
+    font-size: 36px;
     font-weight: bold;
 }
 
@@ -129,6 +134,10 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
     margin-bottom: 5px;
     color: #666666;
     font-weight: bold;
+
+    a {
+        font-size: 22px;
+    }
 }
 
 .content h3 {
@@ -220,6 +229,11 @@ input[data-function*='swipe']:checked ~ .sidebar {
     font-style: normal;
     color: #8C8C8C;
     font-weight: 300;
+  }
+
+  hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   ul
