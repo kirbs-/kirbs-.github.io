@@ -93,6 +93,19 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
     color: rgb(162, 163, 163);
 }
 
+#social-icons h3 {
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: #666666;
+    font-weight: bold;
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    line-height: 1.5em;
+    color: #666;
+    font-weight: 300;
+}
+
 /* ------------ Content Style -------------- */
 
 .content {
