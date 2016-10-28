@@ -278,3 +278,9 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
   }
 }
+
+.project-heading img {
+    display: inline;
+    margin: 0.2rem;
+    float: right;
+}
