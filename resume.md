@@ -5,9 +5,9 @@ permalink: /resume
 order: 99
 ---
 
-I’m a results-oriented IT professional with 8+ years of experience. Data warehousing, information system analysis, big data analysis, and business process improvement are just a few subject areas in my repertoire. I also have extensive knowledge in finance, accounting, and supply chain management. 
+I’m a results-oriented business/IT professional with 9+ years of experience in data warehousing, information system analysis, big data analysis, and business process improvement. I also have extensive knowledge in finance, accounting, and supply chain management. 
 
-I work closely with stakeholders to truly understand their business needs. I combine my technology experience to create insightful analysis that adds value and surpasses expectations. As a result, I am consistently recognized as a top performer; promoted seven times in nine years.
+I work closely with stakeholders to truly understand their business needs. I leverage cutting technology to create insightful analysis that adds value and surpasses expectations. As a result, I am consistently recognized as a top performer; promoted eight times in 10 years.
 
 * Strong experience in interacting with stakeholders/customers, gathering requirements through interviews, workshops, and existing system documentation.
 * Proven success as a business analyst, providing a well-balanced understanding of business relationships, business requirements, and technical solutions. 
@@ -20,7 +20,7 @@ Skills
 ---
 
 | Data Warehousing | Business Analysis | Data Modeling | SQL |
-| Multivariate Analysis | Natural Language Processing | Opimization | |
+| Multivariate Analysis | Natural Language Processing | Optimization | Machine Learning |
 | Java | Python | Ruby | JavaScript |
 
 
@@ -29,10 +29,13 @@ Work History
 ---
 
 ### Asurion
-**Manager, Analytics** - 
-December 2014 to Present
+**Senior Manager, Analytics** -
+March 2017 to Present
 
-Fast-paced role leading a team of business analysts responsible for actionable insights and targeted business intelligence. Transforming complex business problems in the retail sector into focused, data-backed solutions. Driving down costs by elevating analytic capabilities and improving decision-making processes.
+**Manager, Analytics** - 
+December 2014 to March 2017
+
+Fast-paced role leading a team of business analysts responsible for actionable insights and targeted business intelligence. Transforming complex business problems in the retail sector into focused, data-backed analysis. 
 
 
 **Senior Technology Analyst** -
@@ -45,7 +48,7 @@ Combination of project management, technical analysis, business analysis, QA tes
 * Created comprehensive Supply Chain analysis framework which improved Analyic's team efficiency by 47%.
 
 
-**Technology Analyst** -
+**Technology Analyst II** -
 June 2011 to March 2014
 
 * Designed and implemented enterprise-wide claim cost reporting.
@@ -60,10 +63,14 @@ March 2010 to June 2011
 Dynamic role supporting reporting needs for client services organization. Position required communicating effectively with multiple stakeholders on and delivering accurate reports in a short time frame.
 
 * Identified repeat report requests and worked with report developers to automate frequetly needed reports.
+* Documented complex CRM data model to help new team members learn systems.
 
+
+**Insurance Analyst**
+August 2008 to March 2010
 
 **Business Analyst** -
-October 2007 to May 2010
+October 2007 to August 2008
 
 ### Town Park
 **Operations Manager** - 
